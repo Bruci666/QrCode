@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "snake-game-main"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "snake-game-main"
+	}
+}
